@@ -1,0 +1,392 @@
+.a{
+    display:inline-block;
+    margin-left: 30px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px;
+    
+}
+.b{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.p{
+    display: inline-block;
+    margin-left: -100px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.c{
+    display:inline-block;
+    margin-left: 70px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px; 
+}
+.d{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.e{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.f{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.g{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.h{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.i{
+    display:inline-block;
+    margin-left: 85px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 70px;
+}
+#linkD, #linkF, #linkSH, #linkSD{
+    text-decoration: none;
+    color:black;
+}
+#signinlink{
+    text-decoration: none;
+    color: rgb(228, 43, 43);
+}
+#order11, #order22, #order33, #order44{
+    text-decoration: none;
+    color: white;
+}
+table {
+    width: 95.2%;
+    height:-120px;
+    position: relative;
+    bottom: 60px;
+    left: 28px;
+}
+table thead td {
+    border: 2px  solid rgb(97, 96, 96);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: black;
+}
+table span{
+    color:rgb(228, 43, 43);
+}
+.deals {
+    width: 120px;
+    position: relative;
+    left: 15px;
+}
+.for-one {
+    width: 130px;
+    position: relative;
+    left: 15px;
+}
+.for-sharing {
+    width: 170px;
+    position: relative;
+    left: 15px;
+}
+.sides-and-desserts {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+.your-cart {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+#h1{
+    position: relative;
+    text-align: center;
+    bottom: 30px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+img{
+    width:300px;
+  
+    background-color: rgb(252,248,248);
+}
+.im1{
+    position: relative;
+    left:20px ;
+}
+.im3{
+    position: relative;
+    right:20px ;
+}
+.im4{
+    position: relative;
+    right:37px ;
+}
+.mm1{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    left: 130px;
+}
+.mm2{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    left: 80px;
+
+}
+.mm3{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    left: 70px;
+}
+.mm4{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    left: 50px;
+}
+.mm5{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    left: 50px;
+}
+.mm9{
+     
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    text-align: center;
+    position: relative;
+    bottom: 20px; 
+    left:110px;
+   /* margin-top:-1px;
+    margin-left: 120px;*/
+
+}
+.mm6{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    left: 20px;
+    
+}
+.mm10{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    position: relative;
+    bottom: 20px; 
+    left:110px;
+}
+.mm7{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    left: -20px;
+    
+}
+.mm11{
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    position: relative;
+   top: 20px;
+    left:160px;
+
+}
+.mm8{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    display: inline-block;
+    color: black;
+    font-size:15px;
+    left: -30px; 
+}
+.b1{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color: white;
+    color: red;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    border-color:rgb(230, 26, 26);
+    left:48px; 
+    margin-bottom: 30px;
+   
+    
+}
+.b2{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color:rgb(230, 26, 26);
+    color:white;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:48px; 
+    border-color:rgb(230, 26, 26);
+    margin-bottom: 30px;
+}
+.b3{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color: white;
+    color: red;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:80px; 
+    border-color:rgb(230, 26, 26); 
+    margin-bottom: 30px;
+
+}
+.b4{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color:rgb(230, 26, 26);
+    color:white;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:80px; 
+    border-color: rgb(230, 26, 26);
+    margin-bottom: 30px;
+}
+.b5{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color: white;
+    color: red;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:120px; 
+    border-color:rgb(230, 26, 26);
+    margin-bottom: 30px;
+}
+.b6{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color: rgb(230, 26, 26);
+    color:white;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:120px; 
+    border-color:rgb(230, 26, 26);
+    margin-bottom: 30px;
+}
+.b7{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color: white;
+    color: red;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:160px; 
+    border-color: rgb(230, 26, 26);
+    margin-bottom: 30px;
+}
+.b8{
+    position: relative;
+    font-family:'Bebas Neue', cursive ;
+    letter-spacing: 1px;
+    background-color:rgb(230, 26, 26);
+    color:white;
+    font-size: 25px;
+    padding-left:40px; 
+    padding-right:40px;
+    padding-top:1px ;
+    padding-bottom:1px ;
+    left:160px; 
+    border-color: rgb(230, 26, 26);
+    margin-bottom: 30px;
+}

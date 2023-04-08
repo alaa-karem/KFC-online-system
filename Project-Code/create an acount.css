@@ -1,0 +1,436 @@
+
+.a{
+    display:inline-block;
+    margin-left: 30px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px;
+    
+}
+.b{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.p{
+    display: inline-block;
+    margin-left: -100px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.c{
+    display:inline-block;
+    margin-left: 70px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px; 
+}
+.d{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.e{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.f{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.g{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.h{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.i{
+    display:inline-block;
+    margin-left: 85px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 70px;
+}
+#linkD, #linkF, #linkSH, #linkSD{
+    text-decoration: none;
+    color:black;
+}
+#signinlink{
+    text-decoration: none;
+    color: rgb(228, 43, 43);
+}
+.nav1{
+    position: relative;
+    bottom: 75px;
+    left: 420px;
+}
+.nav11{
+    position: relative;
+    bottom:120px;
+    left: 450px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+
+}
+.nav2{
+    position: relative;
+    left: 390px;
+    bottom: 85px;
+}
+.nav3{
+    position: relative;
+    bottom: 90px; 
+    left: 250px;
+}
+.nav33{
+    position: relative;
+    bottom: 115px;
+    left: 280px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.nav44{
+    position: relative;
+    bottom: 80px;
+    left: 120px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+table {
+    width: 95.2%;
+    height: 10px;
+    position: relative;
+    bottom: 100px;
+    left: 28px;
+}
+table thead td {
+    border: 2px  solid rgb(97, 96, 96);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: black;
+}
+table span{
+    color:rgb(228, 43, 43);
+}
+.deals {
+    width: 120px;
+    position: relative;
+    left: 15px;
+}
+.for-one {
+    width: 130px;
+    position: relative;
+    left: 15px;
+}
+.for-sharing {
+    width: 170px;
+    position: relative;
+    left: 15px;
+}
+.sides-and-desserts {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+.your-cart {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+.a2{
+    position: relative;
+    margin-right: 590px;
+    float:right;
+    display: inline;
+    margin-top: -152px;
+}
+.pho1{
+    width: 40px;
+    height: 40px; 
+    display: inline;
+    position: relative;
+    float: right;
+    margin-right: 285px;
+    margin-top: -380px;   
+}
+.p10{
+        display: inline;
+        position: relative;
+        float: right;
+        margin-right: 120px;
+        margin-top: -395px;
+        font-weight: bold;
+}
+.p11{
+    display: inline;
+    position: relative;
+    float: right;
+    margin-right: 150px;
+    margin-top: -370px;
+    font-weight: bold;
+
+}
+.hr1{
+    position: relative;
+    float: right;
+    color: rgb(68, 66, 66);
+   width: 280px;
+   margin-top: -330px;
+   margin-right: 20px;
+}
+.unor1{
+position: relative;
+margin-top: -300px;
+float: right;
+margin-right: 20px;
+
+}
+.marg1{
+    margin-top: 420px;
+    margin-right: 50px;
+}
+.par1{
+    font-weight: bolder;
+    font-size: 25px;
+    float: right;
+    margin-right: 850px;
+    margin-top: -410px;
+}
+.par2{
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+    float: left;
+    bottom: 350px;
+}
+.bac1{
+    position: relative;
+    width: 830px;
+    height: 60px;
+    background-color:whitesmoke;
+    float: left;
+    bottom: 300px;
+    left: -270px; 
+    font-size: 25px; 
+    font-weight: bold;
+    padding-top: 10px; 
+    padding-left: 4px;
+}
+.par3{
+    position: relative;
+    float: left;
+    bottom: 273px;
+    left: -750px; 
+    font-weight: bold;
+    font-size: 15px
+}
+.txt1{
+    position: relative;
+    width: 400px;
+    height: 43px;
+    bottom: 240px;
+    left: 30px;
+}
+.par4{
+    position: relative;
+    font-weight: bold;
+    bottom: 320px;
+    left: 30px;
+    font-size: 20px;
+}
+.txt2{
+    position: relative;
+    width: 400px;
+    height: 43px;
+    bottom: 330px;
+    left: 500px;
+
+}
+.par5{
+    position: relative;
+    font-weight: bold;
+    bottom: 410px;
+    left: 495px;
+    font-size: 20px;
+}
+.par6{
+    position: relative;
+    font-weight: bold;
+    bottom: 350px;
+    left: 30px;
+    font-size: 20px;
+}
+.par7{
+    position: relative;
+    width: 70px;
+    height: 43px;
+    background-color: black;
+    bottom: 360px;
+    left: 33px;
+    color: white;
+    font-size: 25px;
+}
+.txt3{
+    position: relative;
+    width: 330px;
+    height: 43px;
+    bottom: 403px;
+    left: 100px;
+}
+.par8{
+    position: relative;
+    font-weight: bold;
+    bottom: 480px;
+    left: 500px;
+    font-size: 20px;
+}
+.par9{
+    position: relative;
+    width: 70px;
+    height: 43px;
+    background-color: black;
+    bottom: 495px;
+    left: 490px;
+    color: white;
+    font-size: 25px;
+}
+.txt4{
+    position: relative;
+    width: 340px;
+    height: 43px;
+    bottom: 538px;
+    left: 560px;
+}
+.par10{
+    position: relative;
+    font-weight: bold;
+    bottom: 480px;
+    left: 30px;
+    font-size: 20px;
+}
+
+.txt5{
+    position: relative;
+    width: 400px;
+    height: 43px;
+    bottom: 490px;
+    left: 30px;
+}
+.chec2{
+    position: relative;
+    left: -375px;
+    width: 20px;
+    height: 20px;
+    bottom: 420px;
+}
+.par11{
+    position: relative;
+    font-weight: bold;
+    left: 55px;
+    bottom: 458px;
+}
+.bac2{
+    position: relative;
+    width: 830px;
+    height: 60px;
+    background-color:whitesmoke;
+    float: left;
+    bottom: 450px;
+    left: 17px; 
+    font-size: 25px; 
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 4px; 
+}
+.par12{
+    position: relative;
+    float: left;
+    bottom: 425px;
+    left: -480px; 
+    font-weight: bold;
+    font-size: 15px
+}.par13{
+    position: relative;
+    font-weight: bold;
+    bottom: 380px;
+    left: -900px;
+    font-size: 20px;
+}
+.txt6{
+    position: relative;
+    width: 400px;
+    height: 43px;
+    bottom: 390px;
+    left: -810px;
+}
+.par14{
+    position: relative;
+    font-weight: bold;
+    bottom: 470px;
+    left: 445px;
+    font-size: 20px;
+}
+.txt7{
+    position: relative;
+    width: 400px;
+    height: 43px;
+    bottom: 480px;
+    left: 450px;
+}
+.par15{
+    position: relative;
+    font-weight: bold;
+    bottom: 470px;
+    left: 20px;
+}
+.btn5{
+position: relative;
+width: 260px;
+height: 55px;
+background: #ea1f2e;
+border: none;
+color: white;
+font-size: 25px;
+left: 20px;
+bottom: 470px;
+}
+
+
+
+
+
+

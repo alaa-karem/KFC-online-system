@@ -1,0 +1,588 @@
+.a{
+    display:inline-block;
+    margin-left: 30px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px;
+    
+}
+.b{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.p{
+    display: inline-block;
+    margin-left: -100px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.c{
+    display:inline-block;
+    margin-left: 70px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px; 
+}
+.d{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.e{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.f{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.g{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.h{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.i{
+    display:inline-block;
+    margin-left: 85px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 70px;
+}
+#linkD, #linkF, #linkSH, #linkSD{
+    text-decoration: none;
+    color:black;
+}
+#signinlink{
+    text-decoration: none;
+    color: rgb(228, 43, 43);
+}
+.nav1{
+    position: relative;
+    bottom: 80px;
+    left: 430px;
+}
+.nav11{
+    position: relative;
+    bottom:125px;
+    left: 470px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+
+}
+.nav2{
+    position: relative;
+    left: 370px;
+    bottom: 85px;
+}
+.nav3{
+    position: relative;
+    bottom: 90px; 
+    left: 230px;
+}
+.nav33{
+    position: relative;
+    bottom: 115px;
+    left: 255px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.nav44{
+    position: relative;
+    bottom: 80px;
+    left: 110px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+table {
+    width: 95.8%;
+    height: 10px;
+    position: relative;
+    bottom: 105px;
+    left: 25px;
+}
+table thead td {
+    border: 2px  solid rgb(97, 96, 96);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: black;
+}
+table span{
+    color:rgb(228, 43, 43);
+}
+.deals {
+    width: 120px;
+    position: relative;
+    left: 15px;
+}
+.for-one {
+    width: 130px;
+    position: relative;
+    left: 15px;
+}
+.for-sharing {
+    width: 170px;
+    position: relative;
+    left: 15px;
+}
+.sides-and-desserts {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+.your-cart {
+    width: 190px;
+    position: relative;
+    left: 15px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+}
+.A1, .A2, .A3, .A4, .B1, .B2, .B3, .B4, .C1, .C2, .C3, .C4, .D1{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 25px;
+}
+.A1{
+    position: relative;
+    top: -40px;
+    left: 100px;
+  }
+.A2{
+      position: relative;
+      top: -40px;
+      left: 250px;
+}
+.A3{
+      position: relative;
+      top: -40px;
+      left: 410px;
+}
+.A4{
+      position: relative;
+      top: -40px;
+      left: 560px;
+}
+.img32, .img33, .img34, .img35, .img36, .img37, .img38, .img39, .img40, .img41, .img42, .img43, .img44 {
+    background-color: rgb(252, 248, 248);
+    height: 300px;
+    width: 300px;
+}
+.img32{
+    position: relative;
+    left: 30px;
+    bottom: 35px;
+    }
+    .img33{
+        position: relative;
+        left: 127px;
+        bottom: 35px;
+    }
+    .img34{
+        position: relative;
+        left: 224px;
+        bottom: 35px;
+    }
+    .img35{
+        position: relative;
+        left: 320px;
+        bottom: 35px;
+    }
+.A5, .A6,.A7, .A8, .B5, .B6, .B7, .B8, .C5, .C6, .C7, .C8, .D5{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+
+    
+}
+.A5{
+    position: relative;
+    bottom: 30px;
+    left: 90px;  
+}
+.A6{
+    position: relative;
+    bottom: 30px;
+    left: 290px; 
+}
+.A7{
+    position: relative;
+    bottom: 30px;
+    left: 475px; 
+}
+.A8{
+    position: relative;
+    bottom: 30px;
+    left: 670px; 
+}
+.ButtonRow1{
+    position: relative;
+    top: 60px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+.BB1_1, .BB1_3, .BB1_5, .BB1_7{
+    background-color: white;
+    color: #ea1f2e;
+    border: #ea1f2e solid 2px;
+    width: 140px;
+    height: 50px;
+}
+.BB1_2, .BB1_4, .BB1_6, .BB1_8{
+    background-color: #ea1f2e;
+    color: white;
+    border: #ea1f2e solid 2px;
+    width: 160px;
+    height: 50px;
+}
+.BB1_1, .BB1_2{
+    position: relative;
+    left: 45px;
+    bottom: 20px;
+}
+.BB1_3, .BB1_4{
+    position: relative;
+    left: 75px;
+    bottom: 20px;
+}
+.BB1_5, .BB1_6{
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+}
+.BB1_7, .BB1_8{
+    position: relative;
+    left: 135px;
+    bottom: 20px;
+}
+#linkShar1, #linkShar2, #linkShar3, #linkShar4{
+    text-decoration: none;
+    color: white;
+}
+.B1{
+    position: relative;
+    left: 90px;
+    top: 75px;
+}
+.B2{
+   position: relative;
+   left: 40px;
+   top: 75px;
+}
+.B3{
+   position: relative;
+   left: 180px;
+   top: 75px;
+}
+.B4{
+   position: relative;
+   left: 890px;
+   top: 75px;
+}
+.img36{
+   position: relative;
+   top: 80px;
+   left: 30px;
+}
+.img37{
+   position: relative;
+   top: 80px;
+   left: 15px;
+}
+.img38{
+   position: relative;
+   top: 80px;
+   left: 0px;
+}
+.img39{
+   position: relative;
+   top: 80px;
+   left: -15px;
+}
+.B5{
+    position: relative;
+    top: 90px;
+    left: 30px;
+}
+.B55{
+    position: relative;
+    left: 100px;
+}
+.B6{
+    position: relative;
+    top: 90px;
+    left: 65px;
+}
+.B66{
+    position: relative;
+    left: 100px;
+}
+.B7{
+    position: relative;
+    top: 90px;
+    left: 100px;
+}
+.B77{
+    position: relative;
+    left: 100px;
+}
+.B8{
+    position: relative;
+    top: 90px;
+    left: 130px;
+}
+.B88{
+    position: relative;
+    left: 100px;
+}
+.ButtonRow2{
+    position: relative;
+    top: 170px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+.BB2_1, .BB2_3, .BB2_5, .BB2_7{
+    background-color: white;
+    color: #ea1f2e;
+    border: #ea1f2e solid 2px;
+    width: 140px;
+    height: 50px;
+}
+.BB2_2, .BB2_4, .BB2_6, .BB2_8{
+    background-color: #ea1f2e;
+    color: white;
+    border: #ea1f2e solid 2px;
+    width: 160px;
+    height: 50px;
+}
+.BB2_1, .BB2_2{
+    position: relative;
+    left: 45px;
+    bottom: 60px;
+}
+.BB2_3, .BB2_4{
+    position: relative;
+    left: 75px;
+    bottom: 60px;
+}
+.BB2_5, .BB2_6{
+    position: relative;
+    left: 110px;
+    bottom: 60px;
+}
+.BB2_7, .BB2_8{
+    position: relative;
+    left: 140px;
+    bottom: 60px;
+} 
+.C1{
+    position: relative;
+    top: 150px;
+    left: 85px;
+}
+.C2{
+    position: relative;
+    top: 150px;
+    left: 240px;
+}
+.C3{
+    position: relative;
+    top: 150px;
+    left: 365px;
+}
+.C4{
+    position: relative;
+    top: 150px;
+    left: 500px;
+}
+.img40{
+    position: relative;
+    top: 150px;
+    left: 30px;
+}
+.img41{
+    position: relative;
+    top: 150px;
+    left: 15px;
+}
+.img42{
+    position: relative;
+    top: 150px;
+    left: 1px;
+}
+.img43{
+    position: relative;
+    top: 150px;
+    left: -15px;
+}
+.C5{
+    position: relative;
+    top: 160px;
+    left: 45px;
+}
+.C55{
+    position: relative;
+    left: 40px;
+}
+.C6{
+    position: relative;
+    top: 160px;
+    left: 100px;
+}
+.C66{
+    position: relative;
+    left: 40px;
+}
+.C7{
+    position: relative;
+    top: 160px;
+    left: 140px;
+}
+.C77{
+    position: relative;
+    left: 40px;
+}
+.C8{
+    position: relative;
+    top: 160px;
+    left: 190px;
+}
+.C88{
+    position: relative;
+    left: 40px;
+}
+.ButtonRow3{
+    position: relative;
+    top: 300px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 25px;
+ }
+.BB3_1, .BB3_3, .BB3_5, .BB3_7{
+    background-color: white;
+    color: #ea1f2e;
+    border: #ea1f2e solid 2px;
+    width: 140px;
+    height: 50px;
+}
+.BB3_2, .BB3_4, .BB3_6, .BB3_8{
+    background-color: #ea1f2e;
+    color: white;
+    border: #ea1f2e solid 2px;
+    width: 160px;
+    height: 50px;
+}
+.BB3_1, .BB3_2{
+    position: relative;
+    left: 55px;
+    bottom: 90px;
+}
+.BB3_3, .BB3_4{
+    position: relative;
+    left: 85px;
+    bottom: 90px;
+}
+.BB3_5, .BB3_6{
+    position: relative;
+    left: 120px;
+    bottom: 90px;
+}
+.BB3_7, .BB3_8{
+    position: relative;
+    left: 150px;
+    bottom: 90px;
+} 
+.D1{
+    position: relative;
+    top: 260px;
+    left: 90px;
+}
+.img44{
+    position: relative;
+    top: 270px;
+    left: 20px;
+}
+.D5{
+    position: relative;
+    top: 280px;
+    left: 40px;
+}
+.D55{
+    position: relative;
+    left: 85px;
+}
+.ButtonRow4{
+    position: relative;
+    top: 530px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+.BB4_1{
+    background-color: white;
+    color: #ea1f2e;
+    border: #ea1f2e solid 2px;
+    width: 140px;
+    height: 50px;
+    position: relative;
+    left: 40px;
+    bottom: 210px;
+}
+.BB4_2{
+    background-color: #ea1f2e;
+    color: white;
+    border: #ea1f2e solid 2px;
+    width: 160px;
+    height: 50px;
+    position: relative;
+    left: 30px;
+    bottom: 210px;
+}
+/* .BB4_1, .BB4_2{
+    position: relative;
+    left: 55px;
+    bottom: 220px;
+} */

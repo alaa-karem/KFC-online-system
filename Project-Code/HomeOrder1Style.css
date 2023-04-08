@@ -1,0 +1,346 @@
+.a{
+    display:inline-block;
+    margin-left: 30px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px;
+    
+}
+.b{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.p{
+    display: inline-block;
+    margin-left: -100px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.c{
+    display:inline-block;
+    margin-left: 70px;
+    background-color: rgb(228, 43, 43);
+    width: 75px;
+    height: 70px; 
+}
+.d{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.e{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.f{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.g{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.h{
+    display: inline-block;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 20px;
+}
+.i{
+    display:inline-block;
+    margin-left: 85px;
+    background-color: rgb(228, 43, 43);
+    width: 80px;
+    height: 70px;
+}
+#linkD, #linkF, #linkSH, #linkSD{
+    text-decoration: none;
+    color:black;
+}
+#signinlink{
+    text-decoration: none;
+    color: rgb(228, 43, 43);
+}
+#page1, #page2, #page3{
+    text-decoration: none;
+    color: white;
+}
+.nav1{
+    position: relative;
+    left: 440px;
+    bottom: 75px;
+}
+.nav11{
+    position: relative;
+    bottom:125px;
+    left: 470px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+
+}
+.nav2{
+    position: relative;
+    left: 370px;
+    bottom: 85px;
+}
+.nav3{
+    position: relative;
+    bottom: 85px; 
+    left: 230px;
+}
+.nav33{
+    position: relative;
+    bottom: 110px;
+    left: 255px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.nav44{
+    position: relative;
+    bottom: 79px;
+    left: 80px;
+    color:rgb(228, 43, 43);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+table {
+    width: 94.5%;
+    height: 10px;
+    position: relative;
+    bottom: 105px;
+    left: 26px;
+}
+table thead td {
+    border: 2px  solid rgb(97, 96, 96);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: black;
+}
+table span{
+    color:rgb(228, 43, 43);
+}
+.deals {
+    width: 120px;
+    position: relative;
+    left: 20px;
+}
+.for-one {
+    width: 130px;
+    position: relative;
+    left: 20px;
+}
+.for-sharing {
+    width: 170px;
+    position: relative;
+    left: 20px;
+}
+.sides-and-desserts {
+    width: 190px;
+    position: relative;
+    left: 20px;
+}
+.your-cart {
+    width: 190px;
+    position: relative;
+    left: 20px;
+}
+h2{
+    text-align: center;
+    position: relative;
+    top: -40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+}
+.sqr{
+    position: relative;
+    bottom: 5px;
+}
+.sq1, .sq2, .sq3, .sq4{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+.sq1{
+    color: white;
+    background-color: #ea1f2e;
+    position: relative;
+    left: 340px;
+    bottom: 15px;
+}
+.sq2{
+    color: black;
+    background-color: white;
+    border: solid 3px black;
+    position: relative;
+    left: 380px;
+    bottom: 10px;
+}
+.sq3{
+    color: black;
+    background-color: white;
+    border: solid 3px black;
+    position: relative;
+    left: 420px;
+    bottom: 10px;
+}
+.sq4{
+    color: black;
+    background-color: white;
+    border: solid 3px black;
+    text-align: center;
+    position: relative;
+    left: 460px;
+    bottom: 7px;
+}
+.spann1{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-weight: bold;
+}
+.spann2{
+    position: relative;
+    top: 7px;
+    left: 16px;
+    font-weight: bold;
+}
+.spann3{
+    position: relative;
+    top: 7px;
+    left: 16px;
+    font-weight: bold;
+}
+.spann4{
+    position: relative;
+    top: 7px;
+    right: 0px;
+    font-weight: bold;
+}
+.spanl1, .spanl2, .spanl3, .spanl4{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: black;
+}
+.spanl1{
+    position: relative;
+    left: 340px;
+}
+.spanl2{
+    position: relative;
+    left: 380px;
+}
+.spanl3{
+    position: relative;
+    left: 420px;
+}
+.spanl4{
+    position: relative;
+    left: 460px;
+}
+#theFirstcol{
+    border: gainsboro 2px solid;
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0 0 15px 5px #c1c1c1 inset;
+    position: relative;
+    left: 510px;
+    top: 30px;
+    width: 130px;
+    height: 160px;
+}
+#theSecondcol{
+    border: gainsboro 2px solid;
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0 0 15px 5px #c1c1c1 inset;
+    position: relative;
+    left: 520px;
+    top: 30px;
+    width: 130px;
+    height: 160px;
+}
+.AnaGebtAkhry{
+    position: relative;
+    left: 35px;
+}
+.checkbox_col1{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 45px;
+    top: 5px;
+    
+}
+.checkbox_col11{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 35px;
+}
+.AnaGebtAkhryAgain{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 30px;
+}
+.blablabla{
+    position: relative;
+    left: 35px;
+}
+.checkbox_col2{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 45px;
+    top: 5px;
+}
+.checkbox_col22{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 35px;
+}
+.blablablaAgain{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 50px;
+}
+.theLastbutton{
+    position: relative;
+    top: 50px;
+    left: 560px;
+    background-color: #ea1f2e;
+    color: white;
+    border: #ea1f2e solid 2px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    width: 160px;
+    height: 50px;
+    margin-bottom: 30px;
+}
